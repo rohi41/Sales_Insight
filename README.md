@@ -19,4 +19,9 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 5. Created measure for needs and used them for creating visuals in PowerBi.
 
-6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
+6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends. 
+
+
+#Dashboard
+![image](https://user-images.githubusercontent.com/101571254/224566288-01ff1bc4-ca71-4677-9d9f-45693ea0ffb7.png)
+
