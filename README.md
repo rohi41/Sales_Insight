@@ -22,6 +22,12 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends. 
 
 
-#Dashboard
+# Dashboard
 ![image](https://user-images.githubusercontent.com/101571254/224566288-01ff1bc4-ca71-4677-9d9f-45693ea0ffb7.png)
+
+![image](https://user-images.githubusercontent.com/101571254/224566452-d25af1c4-777e-4918-9df2-ef6083a15bd5.png)
+
+![image](https://user-images.githubusercontent.com/101571254/224566493-0f0531d3-5e13-4a1b-b84b-999a346792bc.png)
+
+
 
