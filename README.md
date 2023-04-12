@@ -28,11 +28,12 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 
 # Dashboard
-![image](https://user-images.githubusercontent.com/101571254/224566288-01ff1bc4-ca71-4677-9d9f-45693ea0ffb7.png)
+![image](https://user-images.githubusercontent.com/101571254/231360342-e8d6e850-1eb2-4e8b-af63-6b094cf6cd6e.png)
 
-![image](https://user-images.githubusercontent.com/101571254/224566620-b6b15341-1bc0-4e27-8d14-f435fe423fc7.png)
+![image](https://user-images.githubusercontent.com/101571254/231360503-541eb204-5528-42de-8a0e-49055b8408ec.png)
 
-![image](https://user-images.githubusercontent.com/101571254/224566671-407ce154-567a-4811-9286-c24b85d9d213.png)
+![image](https://user-images.githubusercontent.com/101571254/231360625-668c361f-d7e4-4f10-af32-f9b973ecdf91.png)
+
 
 
 
